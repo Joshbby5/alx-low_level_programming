@@ -12,6 +12,7 @@
 
 	for (x = 0; x < 8; x++)
 {
-	_putchar(we[x]);
-}	_putchar('\n');
-}	return (0);
+	putchar(we[x]);
+}	putchar('\n');
+	return (0);
+}
