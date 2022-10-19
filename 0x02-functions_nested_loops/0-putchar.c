@@ -5,7 +5,8 @@
  * main-program entry point.
  * Return:0 non error, no error
  */
- int main(void)
+
+int main(void)
 {
 	char we[8] = "_putchar";
 	int x;
