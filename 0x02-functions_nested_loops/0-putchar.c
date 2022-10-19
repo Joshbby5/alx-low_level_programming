@@ -1,5 +1,6 @@
-#include "main.h"
+#include <stdio.h>
 #include <unistd.h>
+#include "main.h"
 /**
  * main-program entry point.
  * Return:0 non error, no error
